@@ -1,5 +1,4 @@
 # Recetas
 
-El proyecto es una colecci√n de recetas
-
-[Receta Arodorias]{Receta Tortillas.("ejeval03\tortilla.html")}
+El proyecto es una colecci√≥n de recetas
+[Receta Tortilla ](https://www.directoalpaladar.com/recetas-de-huevos-y-tortillas/como-hacer-tortilla-francesa-perfecta-paso-a-paso-receta-basica-trucos-salga-bien-jugosa)
